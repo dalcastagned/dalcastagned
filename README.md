@@ -22,8 +22,6 @@
 <div align="center" > 
   <p align="center">
   <p align="center">
-  <a href = "https://web.whatsapp.com/send?phone=+5547988956851"><img src="https://img.shields.io/badge/-WhatsApp-3dc44f?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@danieldalcastagne.com"><img src="https://img.shields.io/badge/-Email-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-dalcastagne-4baa00179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/daniel.dalcastagne/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-b33c90?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
