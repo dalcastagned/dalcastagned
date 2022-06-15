@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/dalcastagned">
-  <img height="180em" src="https://status-hazel.vercel.app/api/top-langs/?username=dalcastagned&layout=compact&theme=dark&langs_count=10"/>
+  <img height="180em" src="https://status-hazel.vercel.app/api/top-langs/?username=dalcastagned&layout=compact&theme=dark&langs_count=10&exclude_repo=status"/>
 </div>
   
  <div align="center" style="margin: 0 auto"><br>
